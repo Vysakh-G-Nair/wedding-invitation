@@ -32,9 +32,9 @@ svg>path {
 }
 
 .bg-theme-light {
-    background-color: var(white);
+    background-color: var(--bs-gray-100);
 }
 
 .bg-theme-dark {
-    background-color: var(white);
+    background-color: var(--bs-gray-800);
 }
